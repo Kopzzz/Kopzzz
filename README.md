@@ -29,8 +29,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-[![](https://visitcount.itsvg.in/api?id=Kopzzz&icon=0&color=1)](https://visitcount.itsvg.in)
-
 ---
+[![](https://visitcount.itsvg.in/api?id=Kopzzz&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
